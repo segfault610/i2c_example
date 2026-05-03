@@ -18,7 +18,7 @@ module i2c_master #(parameter [7:0] BYTE = 8'hA8)(
         DONE  = 4'd8
     } state_t;
 
-    (* gowin_fsm_state_machine *) state_t state;
+    state_t state;
 
     logic [23:0] clkdiv;
     logic tick;
