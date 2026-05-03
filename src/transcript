@@ -1,0 +1,8 @@
+# vsim -c tb_i2c 
+# Start time: 15:44:56 on May 03,2026
+# Loading work.tb_i2c
+# ** Error: (vsim-3043) Unresolved reference to 'top'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_i2c File: tb_i2c.v Line: 4
+# Error loading design
+# End time: 15:44:57 on May 03,2026, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0

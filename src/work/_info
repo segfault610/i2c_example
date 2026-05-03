@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/jonny/Desktop/Code/FPGA/i2c_example/src
+vi2c_master
+Z1 !s110 1777803232
+!i10b 1
+!s100 aOEE9L66Oz1;M7`YbnZIb3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ISYaO`DUToa_Q69EAeBh^S3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1777802927
+8i2c_master.v
+Fi2c_master.v
+!i122 0
+L0 1 194
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1777803232.000000
+!s107 i2c_master.v|i2c_tester.v|tb_i2c.v|
+Z6 !s90 tb_i2c.v|i2c_tester.v|i2c_master.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb_i2c
+R1
+!i10b 1
+!s100 Yg]izX;c[lb:GDY5D[3nG1
+R2
+InCHBD8n;PUABBRa_6dgS[1
+R3
+R0
+w1777802956
+8tb_i2c.v
+Ftb_i2c.v
+!i122 0
+L0 1 9
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 i2c_master.v|i2c_tester.v|tb_i2c.v|
+R6
+!i113 1
+R7
+vtop
+R1
+!i10b 1
+!s100 SMnoSYb64VB=DSEjJ?GV;1
+R2
+I_D_9gUd<T>ib?OfD>9Hk<2
+R3
+R0
+w1777800161
+8i2c_tester.v
+Fi2c_tester.v
+!i122 0
+L0 1 27
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7

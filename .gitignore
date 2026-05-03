@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 impl
 i2c_example.gprj
 i2c_example.gprj.user
+=======
+i2c_example.gprj
+i2c_example.gprj.user
+impl/*
+>>>>>>> 893c3f7 (converted everything to systemverilog flow)
 
