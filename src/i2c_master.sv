@@ -33,7 +33,8 @@ module i2c_master #(parameter [7:0] BYTE = 8'hA8)(
 
     // Tick generation
     always_ff @(posedge clk) begin
-        if (clkdiv == 24'd500000) begin
+        //if (clkdiv == 24'd500000) begin
+        if (clkdiv == 24'd500) begin
             clkdiv <= 0;
             tick   <= 1;
         end else begin
